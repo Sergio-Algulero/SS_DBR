@@ -199,6 +199,7 @@ print("Hello Python!")
 
 # MAGIC %sql
 # MAGIC -- SELECT * FROM demo_tmp_vw
+# MAGIC -- will failed initially 
 
 # COMMAND ----------
 
